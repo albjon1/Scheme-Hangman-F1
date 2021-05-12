@@ -10,4 +10,4 @@
     times)) 
 (define times 0)
 
-(occurrences '(#\a #\a #\b #\c) #\a)   ; calling function with to test it works
+(occurrences '(#\a #\a #\b #\c) #\a)   ; calling function
