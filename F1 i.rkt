@@ -5,7 +5,7 @@
     (define times 0)
     (for-each (λ (i)   ; loop 
                 (if (equal? i num1)    ; if equal to char in list
-                    (set! times (+ times 1)))) ; increment by +1
+                    (set! times (+ times 1)))) ; increment by 1
               list1)
     times)) 
 (define times 0)
